@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_f32c6520c33db9ceb72d01fffea6e27e32d93cd9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_ba11f580910e224b743325e3211a1ab6f3c5ea12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_5a09eb0514e8143f47c553b09df90e50a25deae9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\exploded-aar\co.aenterhy\toggleswitch\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="41526ad620a9ef84b01d8dfc2f5c9750b4d80eaf">
+        <dex dex="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\pre-dexed\debug\co.aenterhy-toggleswitch-1.0.0_41d3920054d498308346a388c9991a2911524546.jar" />
+    </item>
+    <item
+        jar="C:\Users\Longdy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Longdy\Desktop\LockScreenApp\LockScreenApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_7f7fc63bab2bc37662893e2422a2607ce3c8e7b4.jar" />
+    </item>
+
+</items>

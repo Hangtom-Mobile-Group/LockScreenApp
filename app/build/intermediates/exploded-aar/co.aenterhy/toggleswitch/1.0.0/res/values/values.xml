@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ToggleSwitchButton"><attr format="reference" name="handleDrawable"/><attr format="reference" name="outerRingDrawable"/><attr format="reference" name="pointDrawable"/><attr format="dimension" name="innerRadius"/><attr format="dimension" name="outerRadius"/><attr format="dimension" name="glowRadius"/><attr format="dimension" name="snapMargin"/><attr format="reference" name="upper"/><attr format="reference" name="bottom"/></declare-styleable>
+    <!-- From: file:/Users/malice/AndroidStudioProjects/ToggleSwitch/toggleswitch/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">library</string>
+</resources>
